@@ -1,0 +1,2 @@
+# XBPopToRootView
+一个基于SwiftUI实现多层级push的view返回到根View的demo
